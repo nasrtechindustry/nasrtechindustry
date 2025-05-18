@@ -10,6 +10,12 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![Nasr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasrtechindustry&show_icons=true&theme=radical)
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Full Stack Developer** based in **Tanzania 🇹🇿**, passionate about building innovative real-world solutions that combine **software, hardware, and networks**.
@@ -45,7 +51,6 @@ Founder of **Nasr Tech Industry** and **CodeGraphics Solution**, focusing on:
 | **nsoga**           | [Demo](https://nsoga.vercel.app)               |
 | **weather-app**     | [Demo](https://weather-cs.vercel.app)     |
 | **tenant_app**      | [Demo](https://tenant-cs.vercel.app)       |
-
 
 ---
 
@@ -88,12 +93,6 @@ Real-time web UI for smart light management via sensors and microcontrollers.
 
 ---
 
-## 📈 GitHub Stats
-
-![Nasr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasrtechindustry&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - ✉️ Email: `nasrtechindustry@gmail.com`  
@@ -105,4 +104,3 @@ Real-time web UI for smart light management via sensors and microcontrollers.
 ## ⚡ Fun Fact
 
 > I love blending front-end magic, back-end logic, microcontroller hardware, and network architecture to build **smart systems** that solve real-world problems.
-
