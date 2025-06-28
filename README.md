@@ -14,7 +14,7 @@ Founder of **Nasr Tech Industry** and **CodeGraphics Solution**, where I focus o
 
 | **Languages & Frameworks** | **Tools & Platforms** | **Other Expertise** |
 | -------------------------- | --------------------- | ------------------- |
-|                            |                       |                     |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) | ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite) ![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo) ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20PT-00ADEF?style=flat&logo=cisco) | ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat&logo=debian) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino) ![Sanctum](https://img.shields.io/badge/-Laravel%20Sanctum-FF2D20?style=flat&logo=laravel) |
 
 ---
 
